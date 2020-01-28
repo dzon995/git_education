@@ -1,2 +1,2 @@
 # git_education
-Frist GIT edu
+First GIT edu
